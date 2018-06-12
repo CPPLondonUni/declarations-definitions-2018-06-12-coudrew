@@ -1,4 +1,4 @@
 
 std::string ReadStringFromConsole();
 
-std::string DescribePersonAsSomething(const std::string& person, const std::string& adjective);
+std::string DescribePersonAsSomething(const std::string&, const std::string&);
